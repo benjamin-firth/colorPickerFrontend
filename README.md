@@ -6,7 +6,7 @@
 ![play](https://media.giphy.com/media/XGmBgr8V02DrrqFpYd/giphy.gif)
 
 ### [Click here](https://colorpickerfrontend.herokuapp.com/) to launch the application.
-### [Click here](https://github.com/kaylaewood/palettePickerBackend) to view the backend repo for this project and documentation on the endpoints.
+### [Click here](https://github.com/benjamin-firth/palettePickerBackend) to view the backend repo for this project and documentation on the endpoints.
 
 ### ABOUT
 This app enables users to find and save color palettes for projects. Users can generate random palettes, lock the colors they like, and then regenerate the colors they don't. Then, users can create projects and assign palettes to projects. Users can also delete projects and palettes.
